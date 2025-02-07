@@ -1,6 +1,6 @@
-# Expense Management System
+# Expense Tacking Sytem
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+This project is an expense tracker that consists of a Streamlit as  frontend application and a FastAPI as backend server.
 
 
 ## Project Structure
