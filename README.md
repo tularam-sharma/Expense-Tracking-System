@@ -1,4 +1,4 @@
-# Expense Tacking Sytem
+# Expense Tracking Sytem
 
 This project is an expense tracker that consists of a Streamlit as  frontend application and a FastAPI as backend server.
 
